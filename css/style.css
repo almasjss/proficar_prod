@@ -605,7 +605,7 @@ ul.btn li:last-child {
 }
 
 .about .about_box {
-     padding: 40px 85px 30px 90px;
+     padding: 40px 0 30px 0;
 }
 
 .about .titlepage h2 {
