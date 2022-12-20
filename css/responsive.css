@@ -10,9 +10,19 @@
     .text-bg span {
         font-size: 45px;
     }
+    .footer .titlepage {
+        text-align: center;
+        padding-bottom: 0px;
+        padding-left: 68px;
+    }
 }
 
 @media (min-width: 992px) and (max-width: 1199px) {
+    .footer .titlepage {
+        text-align: center;
+        padding-bottom: 0px;
+        padding-left: 25px;
+    }
     .navigation.navbar-dark .navbar-nav .nav-link {
         padding: 0px 7px;
     }
@@ -43,6 +53,11 @@
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
+    .footer .titlepage {
+        text-align: center;
+        padding-bottom: 0px;
+        padding-left: 0px;
+    }
     .navigation.navbar-dark .navbar-nav .nav-link {
         padding: 0px 9px;
     }
@@ -172,6 +187,11 @@
         background: url(../images/menu_icon.png);
         background-repeat: no-repeat;
     }
+    .footer .titlepage {
+        text-align: center;
+        padding-bottom: 0px;
+        padding-left: 0px;
+    }
 }
 
 @media (max-width: 575px) {
@@ -219,7 +239,13 @@
         max-width: 132px;
         padding: 10px 0px;
     }
+    .footer .titlepage {
+        text-align: center;
+        padding-bottom: 0px;
+        padding-left: 0px;
+    }
     .titlepage h2 {
+        text-align: center;
         font-size: 27px;
         line-height: 44px;
     }
