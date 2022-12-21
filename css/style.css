@@ -598,7 +598,7 @@ ul.btn li:last-child {
 /** about section **/
 
 .about {
-    background: linear-gradient(45deg, #EEEEEE, #FAF8F9, #FFFFFF);
+    background: white;
     padding: 50px 0 100px 0;
 }
 
@@ -666,7 +666,6 @@ ul.btn li:last-child {
 /** wedo  section **/
 
 .wedo {
-    padding-top: 70px;
     padding-bottom: 100px;
 }
 
