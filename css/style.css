@@ -440,7 +440,7 @@ ul.btn li:last-child {
 }
 
 .text_img figure img {
-    width: 80%;
+    width: 100%;
 }
 
 .carousel-caption {
@@ -599,7 +599,7 @@ ul.btn li:last-child {
 
 .about {
     background: white;
-    padding: 50px 0 100px 0;
+    padding: 50px 0 0 0;
 }
 
 .about .about_box {
@@ -666,6 +666,7 @@ ul.btn li:last-child {
 /** wedo  section **/
 
 .wedo {
+    padding-top: 0;
     padding-bottom: 100px;
 }
 
